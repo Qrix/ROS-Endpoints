@@ -1,4 +1,3 @@
-.svcKFdHV
 /launcher/11/LauncherServices/App.asmx
 Achievements.asmx/GetAchievementDefinitions
 Achievements.asmx/GetAchievementsProgress
