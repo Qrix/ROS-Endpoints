@@ -209,6 +209,7 @@ socialclub.asmx/CheckText
 socialclub.asmx/CreateAccountSc
 socialclub.asmx/CreateScAuthToken
 socialclub.asmx/CreateScAuthToken2
+socialclub.asmx/EvaluateTextChat
 socialclub.asmx/GetAccountInfo
 socialclub.asmx/GetAlternateNicknames
 socialclub.asmx/GetCountries

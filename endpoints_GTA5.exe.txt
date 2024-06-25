@@ -78,10 +78,9 @@ matchmaking.asmx/Find
 matchmaking.asmx/Unadvertise
 matchmaking.asmx/UnadvertiseAll
 matchmaking.asmx/Update
-socialclub.asmx/CheckEmail
 socialclub.asmx/CheckNickname
-socialclub.asmx/CheckText
 socialclub.asmx/CreateAccountSc
+socialclub.asmx/EvaluateTextChat
 socialclub.asmx/GetAlternateNicknames
 socialclub.asmx/GetPasswordRequirements
 socialclub.asmx/GetScAuthToken

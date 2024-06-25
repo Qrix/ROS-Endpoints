@@ -31,6 +31,7 @@ Clans.asmx/GetSentJoinRequests
 Clans.asmx/GetTopFeudLosers
 Clans.asmx/GetTopFeudWinners
 Clans.asmx/GetTopFeuders
+Clans.asmx/GetTopRivals
 Clans.asmx/GetWallMessages
 Clans.asmx/Invite
 Clans.asmx/Join
@@ -74,6 +75,7 @@ Friends.asmx/RemoveFriend
 Friends.asmx/Unblock
 GameTransactions.asmx
 GeoLocation.asmx/GetLocationInfoFromIP
+GeoLocation.asmx/GetRelayServers
 Inbox.asmx/DeleteMessages
 Inbox.asmx/GetMessages
 Inbox.asmx/GetUnreadMessages
@@ -85,6 +87,9 @@ Leaderboards.asmx/ReadByPlayers
 Leaderboards.asmx/ReadByPlayersByPlatform
 Leaderboards.asmx/ReadCrewMembersByRank
 Leaderboards.asmx/ReadCrewsByRank
+Leaderboards.asmx/ReadLeaderboard
+Leaderboards.asmx/ReadLeaderboardByHandle
+Leaderboards.asmx/ReadLeaderboardNearHandle
 Leaderboards.asmx/ReadNearCrew
 Leaderboards.asmx/ReadNearCrewMember
 Leaderboards.asmx/ReadNearCrewMemberValue
@@ -94,6 +99,7 @@ Leaderboards.asmx/ReadNearPlayer
 Leaderboards.asmx/ReadNearPlayerValue
 Leaderboards.asmx/ReadPlayersByRank
 Leaderboards.asmx/SubmitUpdate
+Leaderboards.asmx/UpdateLeaderboards
 Presence.asmx/GetAttributes
 Presence.asmx/GetAttributesForGamers
 Presence.asmx/GetMessages
@@ -120,6 +126,7 @@ ProfileStatGroups.asmx/ResetPlayerStatsMp
 ProfileStatGroups.asmx/ResetPlayerStatsSp
 ProfileStatGroups.asmx/SubmitUpdate
 ProfileStats.asmx/ReadAllStats
+ProfileStats.asmx/ReadStatsByGamer
 ProfileStats.asmx/ReadStatsByGamer2
 ProfileStats.asmx/ReadStatsByGroups
 ProfileStats.asmx/ResetStats
@@ -133,6 +140,7 @@ SaveMigration.asmx/MigrateAccountMP
 SaveMigrationSingleplayer.asmx/GetUploadedSingleplayerSaveMetadata
 SaveMigrationSingleplayer.asmx/UploadSingleplayerSave
 Telemetry.asmx/GetTelemetryClientConfig
+Telemetry.asmx/Submit
 Telemetry.asmx/SubmitCompressed
 Telemetry.asmx/SubmitRealTime
 Unlocks.asmx/ReadUnlocks
@@ -149,13 +157,17 @@ app.asmx/RetrieveFileChunkMulti
 auth.asmx/CreateP2PCertificate
 auth.asmx/CreateScAuthToken
 auth.asmx/CreateScAuthToken2
+auth.asmx/CreateTicketSc2
 auth.asmx/CreateTicketSc3
 auth.asmx/CreateTicketScAuthToken
 auth.asmx/CreateTicketScAuthToken2
 auth.asmx/CreateTicketScSteam2
+auth.asmx/ExchangeTicket
 auth.asmx/ExchangeTicket2
 auth.svc/CreateTicketSc3
+auth.svc/CreateTicketScAuthToken
 auth.svc/CreateTicketScAuthToken2
+auth.svc/CreateTicketScSteam2
 cloudsave.asmx/GetCloudSaveManifest
 cloudsave.asmx/GetFile
 cloudsave.asmx/GetFileMetadata
@@ -197,6 +209,7 @@ socialclub.asmx/CheckText
 socialclub.asmx/CreateAccountSc
 socialclub.asmx/CreateScAuthToken
 socialclub.asmx/CreateScAuthToken2
+socialclub.asmx/EvaluateTextChat
 socialclub.asmx/GetAccountInfo
 socialclub.asmx/GetAlternateNicknames
 socialclub.asmx/GetCountries
