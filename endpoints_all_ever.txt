@@ -216,6 +216,7 @@ socialclub.asmx/GetCountries
 socialclub.asmx/GetLinkedAccountPrivacyInfo
 socialclub.asmx/GetPasswordRequirements
 socialclub.asmx/GetScAuthToken
+socialclub.asmx/GetToxModPlayerId
 socialclub.asmx/GetYoutubeAccessToken
 socialclub.asmx/NewsletterGetSubscriptionStatus
 socialclub.asmx/NewsletterSubscribe

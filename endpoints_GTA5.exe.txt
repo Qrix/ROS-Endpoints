@@ -84,6 +84,7 @@ socialclub.asmx/EvaluateTextChat
 socialclub.asmx/GetAlternateNicknames
 socialclub.asmx/GetPasswordRequirements
 socialclub.asmx/GetScAuthToken
+socialclub.asmx/GetToxModPlayerId
 socialclub.asmx/GetYoutubeAccessToken
 socialclub.asmx/PostUserFeedActivity
 socialclub.asmx/RequestResetPassword
