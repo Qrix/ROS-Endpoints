@@ -108,7 +108,7 @@ Presence.asmx/NotifyActiveSessionChange
 Presence.asmx/Publish
 Presence.asmx/QueryWithMaxRecordLength
 Presence.asmx/ReplaceAttributes
-Presence.asmx/SetActiveTitle
+Presence.asmx/SetActiveTitlePlatform
 Presence.asmx/SetAttributes
 Presence.asmx/SignOut
 Presence.asmx/Subscribe
@@ -164,6 +164,7 @@ auth.asmx/CreateTicketScAuthToken2
 auth.asmx/CreateTicketScSteam2
 auth.asmx/ExchangeTicket
 auth.asmx/ExchangeTicket2
+auth.asmx/ExchangeTicket3
 auth.svc/CreateTicketSc3
 auth.svc/CreateTicketScAuthToken
 auth.svc/CreateTicketScAuthToken2

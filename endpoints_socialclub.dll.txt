@@ -29,7 +29,7 @@ Presence.asmx/NotifyActiveSessionChange
 Presence.asmx/Publish
 Presence.asmx/QueryWithMaxRecordLength
 Presence.asmx/ReplaceAttributes
-Presence.asmx/SetActiveTitle
+Presence.asmx/SetActiveTitlePlatform
 Presence.asmx/SetAttributes
 Presence.asmx/SignOut
 Presence.asmx/Subscribe
@@ -49,6 +49,7 @@ auth.asmx/CreateScAuthToken2
 auth.asmx/CreateTicketSc3
 auth.asmx/CreateTicketScAuthToken2
 auth.asmx/ExchangeTicket2
+auth.asmx/ExchangeTicket3
 auth.svc/CreateTicketSc3
 auth.svc/CreateTicketScAuthToken2
 cloudsave.asmx/GetCloudSaveManifest
