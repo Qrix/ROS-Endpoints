@@ -78,6 +78,7 @@ achievements.asmx/SynchronizeProgress
 app.asmx/GetApps
 app.asmx/GetBuildManifestFull
 app.asmx/GetTitleAccessToken
+app.asmx/GetTitleAccessToken2
 app.asmx/RetrieveFileChunkMulti
 auth.asmx/CreateScAuthToken
 auth.asmx/CreateScAuthToken2
