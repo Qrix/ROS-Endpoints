@@ -117,6 +117,7 @@ PrivateMessaging.asmx/AddMessage
 PrivateMessaging.asmx/DeleteMessage
 PrivateMessaging.asmx/GetMessages
 PrivateMessaging.asmx/GetSenderList
+PrivateMessaging.asmx/MarkAllMessagesRead
 PrivateMessaging.asmx/MarkMessagesRead
 ProfileStatGroups.asmx/CompanionReadByGroup
 ProfileStatGroups.asmx/ReadByGroup
