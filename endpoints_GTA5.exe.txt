@@ -74,11 +74,11 @@ licenseplates.asmx/ChangeNoInsert
 licenseplates.asmx/Get
 licenseplates.asmx/IsValid
 matchmaking.asmx/Advertise
-matchmaking.asmx/Find
 matchmaking.asmx/Unadvertise
 matchmaking.asmx/UnadvertiseAll
 matchmaking.asmx/Update
 socialclub.asmx/CheckNickname
+socialclub.asmx/CheckText
 socialclub.asmx/CreateAccountSc
 socialclub.asmx/EvaluateTextChat
 socialclub.asmx/GetAlternateNicknames

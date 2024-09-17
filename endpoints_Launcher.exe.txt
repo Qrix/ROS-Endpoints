@@ -106,6 +106,7 @@ licenseplates.asmx/Add
 licenseplates.asmx/ChangeNoInsert
 licenseplates.asmx/Get
 licenseplates.asmx/IsValid
+paradise.asmx/GetEnforcementFlag
 presence.asmx/GetPresenceServers
 socialclub.asmx/CheckEmail
 socialclub.asmx/CheckNickname

@@ -202,6 +202,7 @@ matchmaking.asmx/Find
 matchmaking.asmx/Unadvertise
 matchmaking.asmx/UnadvertiseAll
 matchmaking.asmx/Update
+paradise.asmx/GetEnforcementFlag
 playersearch.asmx/UnifiedAccountSearch
 presence.asmx/GetPresenceServers
 s/d/wcfgameservices/Conductor.svc/s
