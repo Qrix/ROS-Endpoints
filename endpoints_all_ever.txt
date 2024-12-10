@@ -100,6 +100,7 @@ Leaderboards.asmx/ReadNearPlayerValue
 Leaderboards.asmx/ReadPlayersByRank
 Leaderboards.asmx/SubmitUpdate
 Leaderboards.asmx/UpdateLeaderboards
+Modulate.asmx/GetToxModJwt
 Presence.asmx/GetAttributes
 Presence.asmx/GetAttributesForGamers
 Presence.asmx/GetMessages

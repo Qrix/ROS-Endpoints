@@ -43,6 +43,7 @@ Leaderboards.asmx/ReadNearPlayer
 Leaderboards.asmx/ReadNearPlayerValue
 Leaderboards.asmx/ReadPlayersByRank
 Leaderboards.asmx/SubmitUpdate
+Modulate.asmx/GetToxModJwt
 Presence.asmx/SignOut
 ProfileStats.asmx/ReadAllStats
 ProfileStats.asmx/ReadStatsByGamer2
