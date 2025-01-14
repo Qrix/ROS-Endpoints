@@ -82,10 +82,6 @@ app.asmx/GetTitleAccessToken2
 app.asmx/RetrieveFileChunkMulti
 auth.asmx/CreateScAuthToken
 auth.asmx/CreateScAuthToken2
-auth.asmx/CreateTicketSc3
-auth.asmx/CreateTicketScAuthToken2
-auth.svc/CreateTicketSc3
-auth.svc/CreateTicketScAuthToken2
 commerce.asmx/GetCommerceManifest
 entitlements.asmx/BeginSteamPurchase
 entitlements.asmx/ConsumeVoucher
