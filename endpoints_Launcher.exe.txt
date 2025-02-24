@@ -92,6 +92,7 @@ entitlements.asmx/GetEntitlementDownloadUri
 entitlements.asmx/GetEntitlements
 entitlements.asmx/GetSkuDownloadToken
 entitlements.asmx/GetTitleAccessTokenEntitlementBlock
+entitlements.asmx/MirrorEntitlementsPcGtaPlusAsync
 entitlements.asmx/PreviewVoucherConsume
 entitlements.asmx/RequestEntitlementScan
 entitlements.asmx/ValidateContentAge

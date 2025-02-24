@@ -41,10 +41,10 @@ PrivateMessaging.asmx/GetSenderList
 PrivateMessaging.asmx/MarkAllMessagesRead
 PrivateMessaging.asmx/MarkMessagesRead
 Telemetry.asmx/SubmitCompressed
-ZJB4bBXXachievements.asmx/GetPlayerAchievements
 achievements.asmx/AwardAchievement
 achievements.asmx/AwardAchievements
 achievements.asmx/AwardOfflineAchievements
+achievements.asmx/GetPlayerAchievements
 achievements.asmx/SynchronizeProgress
 auth.asmx/CreateScAuthToken2
 auth.asmx/CreateTicketSc3
@@ -63,6 +63,7 @@ entitlements.asmx/ConsumeVoucher
 entitlements.asmx/FinaliseSteamPurchase
 entitlements.asmx/GetCheckoutUrl
 entitlements.asmx/GetDownloadUrlFromPath
+entitlements.asmx/GetEntitlements
 entitlements.asmx/PreviewVoucherConsume
 entitlements.asmx/ValidateContentPlayerAge
 matchmaking.asmx/UnadvertiseAll

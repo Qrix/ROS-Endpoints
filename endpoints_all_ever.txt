@@ -147,6 +147,7 @@ Telemetry.asmx/Submit
 Telemetry.asmx/SubmitCompressed
 Telemetry.asmx/SubmitRealTime
 Unlocks.asmx/ReadUnlocks
+ZJB4bBXXachievements.asmx/GetPlayerAchievements
 accounts.svc/GetScAuthLinkToken
 achievements.asmx/AwardAchievement
 achievements.asmx/AwardAchievements
@@ -188,6 +189,7 @@ entitlements.asmx/GetEntitlementDownloadUri
 entitlements.asmx/GetEntitlements
 entitlements.asmx/GetSkuDownloadToken
 entitlements.asmx/GetTitleAccessTokenEntitlementBlock
+entitlements.asmx/MirrorEntitlementsPcGtaPlusAsync
 entitlements.asmx/PreviewVoucherConsume
 entitlements.asmx/RequestEntitlementScan
 entitlements.asmx/ValidateContentAge
