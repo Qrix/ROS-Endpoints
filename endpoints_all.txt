@@ -2,6 +2,7 @@
 Accounts.asmx/GetAccountPrivacy
 Accounts.asmx/UpdatePresenceVisibility
 Achievements.asmx/GetAchievementDefinitions
+Achievements.asmx/GetAchievements
 Achievements.asmx/GetAchievementsProgress
 Avatars.asmx/GetAvatarsByNickname
 Avatars.asmx/GetAvatarsByRockstarId
@@ -56,6 +57,7 @@ Feed.asmx/AddReaction
 Feed.asmx/ClearReaction
 Feed.asmx/GetMessages
 Feed.asmx/GetPostsByPostIdentifiers
+Feed.asmx/GetUrlTemplates
 Feed.asmx/GetWall
 Feed.asmx/HideMessagesForPlayer
 Feed.asmx/SubmitPresetMessage
@@ -81,6 +83,7 @@ Inbox.asmx/GetMessages
 Inbox.asmx/GetUnreadMessages
 Inbox.asmx/PostMessageToRecipients
 Inbox.asmx/PublishMessage
+Leaderboards.asmx/ReadByCrewMembers
 Leaderboards.asmx/ReadByCrews
 Leaderboards.asmx/ReadByGroups
 Leaderboards.asmx/ReadByPlayers
@@ -88,6 +91,7 @@ Leaderboards.asmx/ReadByPlayersByPlatform
 Leaderboards.asmx/ReadCrewMembersByRank
 Leaderboards.asmx/ReadCrewsByRank
 Leaderboards.asmx/ReadLeaderboard
+Leaderboards.asmx/ReadLeaderboardByGroupMember
 Leaderboards.asmx/ReadLeaderboardByHandle
 Leaderboards.asmx/ReadLeaderboardNearHandle
 Leaderboards.asmx/ReadNearCrew
@@ -101,6 +105,7 @@ Leaderboards.asmx/ReadPlayersByRank
 Leaderboards.asmx/SubmitUpdate
 Leaderboards.asmx/UpdateLeaderboards
 Modulate.asmx/GetToxModJwt
+Paradise.asmx/GetEnforcementFlag
 Presence.asmx/GetAttributes
 Presence.asmx/GetAttributesForGamers
 Presence.asmx/GetMessages
@@ -139,6 +144,9 @@ SaveMigration.asmx/GetSaveMigrationStatus
 SaveMigration.asmx/GetSaveMigrationTransactionStatus
 SaveMigration.asmx/GetSourceAccountsMP
 SaveMigration.asmx/MigrateAccountMP
+SaveMigrationSingleplayer.asmx/CompleteSingleplayerMigration
+SaveMigrationSingleplayer.asmx/DownloadSingleplayerSave
+SaveMigrationSingleplayer.asmx/GetAvailableSingleplayerSaveMetadata
 SaveMigrationSingleplayer.asmx/GetUploadedSingleplayerSaveMetadata
 SaveMigrationSingleplayer.asmx/UploadSingleplayerSave
 Telemetry.asmx/GetTelemetryClientConfig
@@ -186,6 +194,7 @@ entitlements.asmx/GetEntitlementBlock
 entitlements.asmx/GetEntitlementDownloadUri
 entitlements.asmx/GetEntitlements
 entitlements.asmx/GetSkuDownloadToken
+entitlements.asmx/GetSubscriptionDataPc
 entitlements.asmx/GetTitleAccessTokenEntitlementBlock
 entitlements.asmx/MirrorEntitlementsPcGtaPlusAsync
 entitlements.asmx/PreviewVoucherConsume
