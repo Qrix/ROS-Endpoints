@@ -1,4 +1,5 @@
 /launcher/11/LauncherServices/App.asmx
+/s/d/LauncherServices/App.asmx
 Achievements.asmx/GetAchievementDefinitions
 Achievements.asmx/GetAchievementsProgress
 CashTransactions.asmx/GetPackValueUSDE
@@ -90,6 +91,7 @@ entitlements.asmx/GetCheckoutUrl
 entitlements.asmx/GetDownloadUrlFromPath
 entitlements.asmx/GetEntitlementDownloadUri
 entitlements.asmx/GetEntitlements
+entitlements.asmx/GetMSStoreCollectionsAccessToken
 entitlements.asmx/GetSkuDownloadToken
 entitlements.asmx/GetTitleAccessTokenEntitlementBlock
 entitlements.asmx/MirrorEntitlementsPcGtaPlusAsync

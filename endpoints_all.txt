@@ -1,4 +1,6 @@
 /launcher/11/LauncherServices/App.asmx
+/s/d/LauncherServices/App.asmx
+4IoxpUD..xpUD..Paradise.asmx/CreateTicket
 Accounts.asmx/GetAccountPrivacy
 Accounts.asmx/UpdatePresenceVisibility
 Achievements.asmx/GetAchievementDefinitions
@@ -154,11 +156,11 @@ Telemetry.asmx/Submit
 Telemetry.asmx/SubmitCompressed
 Telemetry.asmx/SubmitRealTime
 Unlocks.asmx/ReadUnlocks
+ZJB4bBXXachievements.asmx/GetPlayerAchievements
 accounts.svc/GetScAuthLinkToken
 achievements.asmx/AwardAchievement
 achievements.asmx/AwardAchievements
 achievements.asmx/AwardOfflineAchievements
-achievements.asmx/GetPlayerAchievements
 achievements.asmx/SynchronizeProgress
 app.asmx/GetApps
 app.asmx/GetBuildManifestFull
@@ -193,6 +195,7 @@ entitlements.asmx/GetDownloadUrlFromPath
 entitlements.asmx/GetEntitlementBlock
 entitlements.asmx/GetEntitlementDownloadUri
 entitlements.asmx/GetEntitlements
+entitlements.asmx/GetMSStoreCollectionsAccessToken
 entitlements.asmx/GetSkuDownloadToken
 entitlements.asmx/GetSubscriptionDataPc
 entitlements.asmx/GetTitleAccessTokenEntitlementBlock

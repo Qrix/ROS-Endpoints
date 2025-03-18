@@ -1,4 +1,6 @@
 /launcher/11/LauncherServices/App.asmx
+/s/d/LauncherServices/App.asmx
+4IoxpUD..xpUD..Paradise.asmx/CreateTicket
 Accounts.asmx/GetAccountPrivacy
 Accounts.asmx/UpdatePresenceVisibility
 Achievements.asmx/GetAchievementDefinitions
@@ -195,6 +197,7 @@ entitlements.asmx/GetDownloadUrlFromPath
 entitlements.asmx/GetEntitlementBlock
 entitlements.asmx/GetEntitlementDownloadUri
 entitlements.asmx/GetEntitlements
+entitlements.asmx/GetMSStoreCollectionsAccessToken
 entitlements.asmx/GetSkuDownloadToken
 entitlements.asmx/GetSubscriptionDataPc
 entitlements.asmx/GetTitleAccessTokenEntitlementBlock
