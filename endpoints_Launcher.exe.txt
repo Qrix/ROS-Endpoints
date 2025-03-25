@@ -39,6 +39,7 @@ Clans.asmx/RankDelete
 Clans.asmx/RankUpdate
 Clans.asmx/SetPrimaryClan
 Clans.asmx/WriteWallMessage
+Commerce.asmx/UpdateMSUserStoreIds
 Complaint.asmx/WriteComplaint
 GeoLocation.asmx/GetLocationInfoFromIP
 Leaderboards.asmx/ReadByCrews

@@ -48,6 +48,7 @@ Clans.asmx/RankDelete
 Clans.asmx/RankUpdate
 Clans.asmx/SetPrimaryClan
 Clans.asmx/WriteWallMessage
+Commerce.asmx/UpdateMSUserStoreIds
 Complaint.asmx/WriteComplaint
 Conductor.asmx/Route
 DeviceLink.asmx/Cancel
