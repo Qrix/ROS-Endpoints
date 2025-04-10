@@ -192,6 +192,7 @@ cloudsave.asmx/PostFile
 commerce.asmx/GetCommerceManifest
 entitlements.asmx/BeginSteamPurchase
 entitlements.asmx/ConsumeVoucher
+entitlements.asmx/EvaluateSubscriptionBenefitsPc
 entitlements.asmx/FinaliseSteamPurchase
 entitlements.asmx/GetCheckoutUrl
 entitlements.asmx/GetDownloadUrlFromPath
@@ -205,6 +206,7 @@ entitlements.asmx/GetTitleAccessTokenEntitlementBlock
 entitlements.asmx/MirrorEntitlementsPcGtaPlusAsync
 entitlements.asmx/PreviewVoucherConsume
 entitlements.asmx/RequestEntitlementScan
+entitlements.asmx/RequestEntitlementScanXblPcAsync
 entitlements.asmx/ValidateContentAge
 entitlements.asmx/ValidateContentPlayerAge
 legalpolicies.asmx/AcceptVersion

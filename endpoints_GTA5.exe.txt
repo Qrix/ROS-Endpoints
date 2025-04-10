@@ -68,6 +68,7 @@ auth.asmx/CreateTicketScSteam2
 entitlements.asmx/FinaliseSteamPurchase
 entitlements.asmx/GetEntitlementBlock
 entitlements.asmx/GetEntitlements
+entitlements.asmx/RequestEntitlementScanXblPcAsync
 legalpolicies.asmx/AcceptVersion
 legalpolicies.asmx/GetAcceptedVersion
 licenseplates.asmx/Add
@@ -75,7 +76,6 @@ licenseplates.asmx/ChangeNoInsert
 licenseplates.asmx/Get
 licenseplates.asmx/IsValid
 matchmaking.asmx/Advertise
-matchmaking.asmx/Find
 matchmaking.asmx/Unadvertise
 matchmaking.asmx/UnadvertiseAll
 matchmaking.asmx/Update

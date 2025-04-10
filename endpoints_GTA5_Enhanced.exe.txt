@@ -68,9 +68,10 @@ auth.asmx/CreateP2PCertificate
 auth.asmx/CreateTicketSc3
 auth.asmx/CreateTicketScAuthToken
 auth.asmx/CreateTicketScSteam2
+entitlements.asmx/EvaluateSubscriptionBenefitsPc
 entitlements.asmx/FinaliseSteamPurchase
 entitlements.asmx/GetEntitlementBlock
-entitlements.asmx/GetSubscriptionDataPc
+entitlements.asmx/RequestEntitlementScanXblPcAsync
 legalpolicies.asmx/AcceptVersion
 legalpolicies.asmx/GetAcceptedVersion
 licenseplates.asmx/Add
