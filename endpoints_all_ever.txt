@@ -6,6 +6,9 @@ Accounts.asmx/UpdatePresenceVisibility
 Achievements.asmx/GetAchievementDefinitions
 Achievements.asmx/GetAchievements
 Achievements.asmx/GetAchievementsProgress
+AgeAssurance.asmx/Cancel
+AgeAssurance.asmx/CreateSession
+AgeAssurance.asmx/PlayerStatus
 Avatars.asmx/GetAvatarsByNickname
 Avatars.asmx/GetAvatarsByRockstarId
 CashTransactions.asmx/GetLegalTerritoryRestrictions
@@ -51,6 +54,7 @@ Clans.asmx/WriteWallMessage
 Commerce.asmx/UpdateMSUserStoreIds
 Complaint.asmx/WriteComplaint
 Conductor.asmx/Route
+ContentModeration.asmx/EvaluateTextChat
 DeviceLink.asmx/Cancel
 DeviceLink.asmx/Create
 DeviceLink.asmx/Query

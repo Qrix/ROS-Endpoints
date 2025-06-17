@@ -1,3 +1,6 @@
+AgeAssurance.asmx/Cancel
+AgeAssurance.asmx/CreateSession
+AgeAssurance.asmx/PlayerStatus
 CashTransactions.asmx/GetLegalTerritoryRestrictions
 CashTransactions.asmx/GetPackValueUSDE
 Clans.asmx/DeleteInvite
@@ -18,6 +21,7 @@ Clans.asmx/Leave
 Clans.asmx/SetPrimaryClan
 Complaint.asmx/WriteComplaint
 Conductor.asmx/Route
+ContentModeration.asmx/EvaluateTextChat
 DeviceLink.asmx/Cancel
 DeviceLink.asmx/Create
 DeviceLink.asmx/Query
@@ -76,10 +80,10 @@ licenseplates.asmx/ChangeNoInsert
 licenseplates.asmx/Get
 licenseplates.asmx/IsValid
 matchmaking.asmx/Advertise
+matchmaking.asmx/Find
 matchmaking.asmx/Unadvertise
 matchmaking.asmx/UnadvertiseAll
 matchmaking.asmx/Update
-socialclub.asmx/CheckEmail
 socialclub.asmx/CheckNickname
 socialclub.asmx/CreateAccountSc
 socialclub.asmx/EvaluateTextChat
