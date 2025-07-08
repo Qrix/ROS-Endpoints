@@ -9,6 +9,7 @@ Achievements.asmx/GetAchievementsProgress
 AgeAssurance.asmx/Cancel
 AgeAssurance.asmx/CreateSession
 AgeAssurance.asmx/PlayerStatus
+AgeAssurance.asmx/Query
 Avatars.asmx/GetAvatarsByNickname
 Avatars.asmx/GetAvatarsByRockstarId
 CashTransactions.asmx/GetLegalTerritoryRestrictions

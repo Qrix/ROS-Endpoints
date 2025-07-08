@@ -1,6 +1,7 @@
 AgeAssurance.asmx/Cancel
 AgeAssurance.asmx/CreateSession
 AgeAssurance.asmx/PlayerStatus
+AgeAssurance.asmx/Query
 CashTransactions.asmx/GetLegalTerritoryRestrictions
 CashTransactions.asmx/GetPackValueUSDE
 Clans.asmx/DeleteInvite
@@ -80,11 +81,12 @@ licenseplates.asmx/ChangeNoInsert
 licenseplates.asmx/Get
 licenseplates.asmx/IsValid
 matchmaking.asmx/Advertise
-matchmaking.asmx/Find
 matchmaking.asmx/Unadvertise
 matchmaking.asmx/UnadvertiseAll
 matchmaking.asmx/Update
+socialclub.asmx/CheckEmail
 socialclub.asmx/CheckNickname
+socialclub.asmx/CheckText
 socialclub.asmx/CreateAccountSc
 socialclub.asmx/EvaluateTextChat
 socialclub.asmx/GetAlternateNicknames

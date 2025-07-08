@@ -62,7 +62,6 @@ entitlements.asmx/BeginSteamPurchase
 entitlements.asmx/ConsumeVoucher
 entitlements.asmx/FinaliseSteamPurchase
 entitlements.asmx/GetCheckoutUrl
-entitlements.asmx/GetDownloadUrlFromPath
 entitlements.asmx/GetEntitlements
 entitlements.asmx/PreviewVoucherConsume
 entitlements.asmx/ValidateContentPlayerAge
