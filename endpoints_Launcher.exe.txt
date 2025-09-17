@@ -67,8 +67,8 @@ Presence.asmx/Subscribe
 Presence.asmx/UnknownOp
 ProfileStatGroups.asmx/CompanionReadByGroup
 ProfileStatGroups.asmx/ReadByGroup
+ProfileStatGroups.asmx/ReadByGroupNonAggregated
 ProfileStatGroups.asmx/ReadGameConfig
-ProfileStatGroups.asmx/ReadPosseMembersByPlayers
 ProfileStatGroups.asmx/ResetPlayerStatsMp
 ProfileStatGroups.asmx/ResetPlayerStatsSp
 ProfileStatGroups.asmx/SubmitUpdate

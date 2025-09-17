@@ -46,11 +46,13 @@ achievements.asmx/AwardAchievements
 achievements.asmx/AwardOfflineAchievements
 achievements.asmx/GetPlayerAchievements
 achievements.asmx/SynchronizeProgress
+app.asmx/GetTitleAccessToken
 auth.asmx/CreateScAuthToken2
 auth.asmx/CreateTicketSc3
 auth.asmx/CreateTicketScAuthToken2
 auth.asmx/ExchangeTicket2
 auth.asmx/ExchangeTicket3
+auth.asmx/ExchangeTitleAccessToken
 auth.svc/CreateTicketSc3
 auth.svc/CreateTicketScAuthToken2
 cloudsave.asmx/GetCloudSaveManifest

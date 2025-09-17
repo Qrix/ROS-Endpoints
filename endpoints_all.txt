@@ -135,6 +135,7 @@ PrivateMessaging.asmx/MarkAllMessagesRead
 PrivateMessaging.asmx/MarkMessagesRead
 ProfileStatGroups.asmx/CompanionReadByGroup
 ProfileStatGroups.asmx/ReadByGroup
+ProfileStatGroups.asmx/ReadByGroupNonAggregated
 ProfileStatGroups.asmx/ReadGameConfig
 ProfileStatGroups.asmx/ReadPosseMembersByPlayers
 ProfileStatGroups.asmx/ResetPlayerStatsMp
@@ -162,11 +163,11 @@ Telemetry.asmx/Submit
 Telemetry.asmx/SubmitCompressed
 Telemetry.asmx/SubmitRealTime
 Unlocks.asmx/ReadUnlocks
-ZJB4bBXXachievements.asmx/GetPlayerAchievements
 accounts.svc/GetScAuthLinkToken
 achievements.asmx/AwardAchievement
 achievements.asmx/AwardAchievements
 achievements.asmx/AwardOfflineAchievements
+achievements.asmx/GetPlayerAchievements
 achievements.asmx/SynchronizeProgress
 app.asmx/GetApps
 app.asmx/GetBuildManifestFull
@@ -184,6 +185,7 @@ auth.asmx/CreateTicketScSteam2
 auth.asmx/ExchangeTicket
 auth.asmx/ExchangeTicket2
 auth.asmx/ExchangeTicket3
+auth.asmx/ExchangeTitleAccessToken
 auth.svc/CreateTicketSc3
 auth.svc/CreateTicketScAuthToken
 auth.svc/CreateTicketScAuthToken2

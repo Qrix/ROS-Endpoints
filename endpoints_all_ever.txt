@@ -136,6 +136,7 @@ PrivateMessaging.asmx/MarkAllMessagesRead
 PrivateMessaging.asmx/MarkMessagesRead
 ProfileStatGroups.asmx/CompanionReadByGroup
 ProfileStatGroups.asmx/ReadByGroup
+ProfileStatGroups.asmx/ReadByGroupNonAggregated
 ProfileStatGroups.asmx/ReadGameConfig
 ProfileStatGroups.asmx/ReadPosseMembersByPlayers
 ProfileStatGroups.asmx/ResetPlayerStatsMp
@@ -186,6 +187,7 @@ auth.asmx/CreateTicketScSteam2
 auth.asmx/ExchangeTicket
 auth.asmx/ExchangeTicket2
 auth.asmx/ExchangeTicket3
+auth.asmx/ExchangeTitleAccessToken
 auth.svc/CreateTicketSc3
 auth.svc/CreateTicketScAuthToken
 auth.svc/CreateTicketScAuthToken2
