@@ -78,7 +78,10 @@ accounts.svc/GetScAuthLinkToken
 achievements.asmx/AwardAchievements
 achievements.asmx/SynchronizeProgress
 app.asmx/GetApps
+app.asmx/GetAppsAndPackages
+app.asmx/GetBuildCollection
 app.asmx/GetBuildManifestFull
+app.asmx/GetSecureAssetUrl
 app.asmx/GetTitleAccessToken
 app.asmx/GetTitleAccessToken2
 app.asmx/RetrieveFileChunkMulti
@@ -111,7 +114,7 @@ presence.asmx/GetPresenceServers
 socialclub.asmx/CheckEmail
 socialclub.asmx/CheckNickname
 socialclub.asmx/CheckText
-socialclub.asmx/CreateAccountSc
+socialclub.asmx/CreateAccountScInternal
 socialclub.asmx/CreateScAuthToken
 socialclub.asmx/CreateScAuthToken2
 socialclub.asmx/GetAccountInfo

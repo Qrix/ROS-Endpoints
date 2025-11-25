@@ -170,7 +170,10 @@ achievements.asmx/AwardOfflineAchievements
 achievements.asmx/GetPlayerAchievements
 achievements.asmx/SynchronizeProgress
 app.asmx/GetApps
+app.asmx/GetAppsAndPackages
+app.asmx/GetBuildCollection
 app.asmx/GetBuildManifestFull
+app.asmx/GetSecureAssetUrl
 app.asmx/GetTitleAccessToken
 app.asmx/GetTitleAccessToken2
 app.asmx/RetrieveFileChunkMulti
@@ -183,7 +186,6 @@ auth.asmx/CreateTicketScAuthToken
 auth.asmx/CreateTicketScAuthToken2
 auth.asmx/CreateTicketScSteam2
 auth.asmx/ExchangeTicket
-auth.asmx/ExchangeTicket2
 auth.asmx/ExchangeTicket3
 auth.asmx/ExchangeTitleAccessToken
 auth.svc/CreateTicketSc3
@@ -234,6 +236,7 @@ socialclub.asmx/CheckEmail
 socialclub.asmx/CheckNickname
 socialclub.asmx/CheckText
 socialclub.asmx/CreateAccountSc
+socialclub.asmx/CreateAccountScInternal
 socialclub.asmx/CreateScAuthToken
 socialclub.asmx/CreateScAuthToken2
 socialclub.asmx/EvaluateTextChat
