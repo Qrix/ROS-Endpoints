@@ -74,6 +74,7 @@ auth.asmx/CreateTicketScSteam2
 entitlements.asmx/EvaluateSubscriptionBenefitsPc
 entitlements.asmx/FinaliseSteamPurchase
 entitlements.asmx/GetEntitlementBlock
+entitlements.asmx/GetEntitlements
 entitlements.asmx/RequestEntitlementScanXblPcAsync
 legalpolicies.asmx/AcceptVersion
 legalpolicies.asmx/GetAcceptedVersion
@@ -85,15 +86,9 @@ matchmaking.asmx/Find
 matchmaking.asmx/Unadvertise
 matchmaking.asmx/UnadvertiseAll
 matchmaking.asmx/Update
-socialclub.asmx/CheckEmail
-socialclub.asmx/CheckNickname
-socialclub.asmx/CreateAccountSc
-socialclub.asmx/GetAlternateNicknames
-socialclub.asmx/GetPasswordRequirements
 socialclub.asmx/GetToxModPlayerId
 socialclub.asmx/GetYoutubeAccessToken
 socialclub.asmx/PostUserFeedActivity
-socialclub.asmx/RequestResetPassword
 ugc.asmx/CheckText
 ugc.asmx/CreateContent
 ugc.asmx/CreateContent2
