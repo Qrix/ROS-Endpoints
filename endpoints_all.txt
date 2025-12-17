@@ -6,7 +6,6 @@ Accounts.asmx/UpdatePresenceVisibility
 Achievements.asmx/GetAchievementDefinitions
 Achievements.asmx/GetAchievements
 Achievements.asmx/GetAchievementsProgress
-AgeAssurance.asmx/Cancel
 AgeAssurance.asmx/CreateSession
 AgeAssurance.asmx/PlayerStatus
 AgeAssurance.asmx/Query
