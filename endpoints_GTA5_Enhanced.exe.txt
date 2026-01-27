@@ -86,6 +86,7 @@ matchmaking.asmx/Find
 matchmaking.asmx/Unadvertise
 matchmaking.asmx/UnadvertiseAll
 matchmaking.asmx/Update
+s/d/wcfgameservices/Conductor.svc/s
 socialclub.asmx/GetToxModPlayerId
 socialclub.asmx/GetYoutubeAccessToken
 socialclub.asmx/PostUserFeedActivity

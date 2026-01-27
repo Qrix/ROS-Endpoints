@@ -1,6 +1,6 @@
+AgeAssurance.asmx/Cancel
 AgeAssurance.asmx/CreateSession
 AgeAssurance.asmx/PlayerStatus
-AgeAssurance.asmx/Query
 CashTransactions.asmx/GetLegalTerritoryRestrictions
 CashTransactions.asmx/GetPackValueUSDE
 Clans.asmx/DeleteInvite
@@ -84,6 +84,7 @@ matchmaking.asmx/Find
 matchmaking.asmx/Unadvertise
 matchmaking.asmx/UnadvertiseAll
 matchmaking.asmx/Update
+s/d/wcfgameservices/Conductor.svc/s
 socialclub.asmx/CheckText
 socialclub.asmx/EvaluateTextChat
 socialclub.asmx/GetScAuthToken
