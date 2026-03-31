@@ -126,12 +126,6 @@ Presence.asmx/SetAttributes
 Presence.asmx/SignOut
 Presence.asmx/Subscribe
 Presence.asmx/UnknownOp
-PrivateMessaging.asmx/AddMessage
-PrivateMessaging.asmx/DeleteMessage
-PrivateMessaging.asmx/GetMessages
-PrivateMessaging.asmx/GetSenderList
-PrivateMessaging.asmx/MarkAllMessagesRead
-PrivateMessaging.asmx/MarkMessagesRead
 ProfileStatGroups.asmx/CompanionReadByGroup
 ProfileStatGroups.asmx/ReadByGroup
 ProfileStatGroups.asmx/ReadByGroupNonAggregated
@@ -228,6 +222,7 @@ matchmaking.asmx/Update
 paradise.asmx/GetEnforcementFlag
 playersearch.asmx/UnifiedAccountSearch
 presence.asmx/GetPresenceServers
+s/d/s/Conductor.asmx/s
 s/d/wcfgameservices/Conductor.svc/s
 s/d/wcfgameservices/Posse.svc/s
 s/d/wcfgameservices/SpActionProxy.svc/s

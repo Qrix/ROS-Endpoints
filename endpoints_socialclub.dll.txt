@@ -34,12 +34,6 @@ Presence.asmx/SetAttributes
 Presence.asmx/SignOut
 Presence.asmx/Subscribe
 Presence.asmx/UnknownOp
-PrivateMessaging.asmx/AddMessage
-PrivateMessaging.asmx/DeleteMessage
-PrivateMessaging.asmx/GetMessages
-PrivateMessaging.asmx/GetSenderList
-PrivateMessaging.asmx/MarkAllMessagesRead
-PrivateMessaging.asmx/MarkMessagesRead
 Telemetry.asmx/SubmitCompressed
 ZJB4bBXXachievements.asmx/GetPlayerAchievements
 achievements.asmx/AwardAchievement
