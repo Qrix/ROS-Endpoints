@@ -1,6 +1,5 @@
 /launcher/11/LauncherServices/App.asmx
 /s/d/LauncherServices/App.asmx
-4IoxpUD..xpUD..Paradise.asmx/CreateTicket
 Accounts.asmx/GetAccountPrivacy
 Accounts.asmx/UpdatePresenceVisibility
 Achievements.asmx/GetAchievementDefinitions
@@ -112,6 +111,7 @@ Leaderboards.asmx/ReadPlayersByRank
 Leaderboards.asmx/SubmitUpdate
 Leaderboards.asmx/UpdateLeaderboards
 Modulate.asmx/GetToxModJwt
+Paradise.asmx/CreateTicket
 Paradise.asmx/GetEnforcementFlag
 Presence.asmx/GetAttributes
 Presence.asmx/GetAttributesForGamers

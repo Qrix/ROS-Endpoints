@@ -113,6 +113,7 @@ Leaderboards.asmx/ReadPlayersByRank
 Leaderboards.asmx/SubmitUpdate
 Leaderboards.asmx/UpdateLeaderboards
 Modulate.asmx/GetToxModJwt
+Paradise.asmx/CreateTicket
 Paradise.asmx/GetEnforcementFlag
 Presence.asmx/GetAttributes
 Presence.asmx/GetAttributesForGamers

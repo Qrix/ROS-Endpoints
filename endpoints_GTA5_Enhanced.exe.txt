@@ -1,4 +1,3 @@
-4IoxpUD..xpUD..Paradise.asmx/CreateTicket
 Achievements.asmx/GetAchievements
 AgeAssurance.asmx/CreateSession
 AgeAssurance.asmx/PlayerStatus
@@ -51,6 +50,7 @@ Leaderboards.asmx/ReadNearPlayer
 Leaderboards.asmx/ReadNearPlayerValue
 Leaderboards.asmx/SubmitUpdate
 Modulate.asmx/GetToxModJwt
+Paradise.asmx/CreateTicket
 Paradise.asmx/GetEnforcementFlag
 Presence.asmx/SignOut
 ProfileStats.asmx/ReadStatsByGamer2
