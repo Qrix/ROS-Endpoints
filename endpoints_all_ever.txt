@@ -263,6 +263,7 @@ socialclub.asmx/UpdateAccount
 socialclub.asmx/UpdatePassword
 socialclub.asmx/ValidatePassword
 ugc.asmx/CheckText
+ugc.asmx/ClearMyNominatedContent
 ugc.asmx/CopyContent
 ugc.asmx/CreateContent
 ugc.asmx/CreateContent2
@@ -275,5 +276,6 @@ ugc.asmx/QueryPlayerData
 ugc.asmx/RequestHostedUserContentUpload
 ugc.asmx/SetBookmarked
 ugc.asmx/SetDeleted
+ugc.asmx/SetNominated
 ugc.asmx/SetPlayerData
 ugc.asmx/UpdateContent

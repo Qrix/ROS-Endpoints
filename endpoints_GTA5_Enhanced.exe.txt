@@ -50,8 +50,6 @@ Leaderboards.asmx/ReadNearPlayer
 Leaderboards.asmx/ReadNearPlayerValue
 Leaderboards.asmx/SubmitUpdate
 Modulate.asmx/GetToxModJwt
-Paradise.asmx/CreateTicket
-Paradise.asmx/GetEnforcementFlag
 Presence.asmx/SignOut
 ProfileStats.asmx/ReadStatsByGamer2
 ProfileStats.asmx/ReadStatsByGroups
@@ -91,6 +89,7 @@ socialclub.asmx/GetToxModPlayerId
 socialclub.asmx/GetYoutubeAccessToken
 socialclub.asmx/PostUserFeedActivity
 ugc.asmx/CheckText
+ugc.asmx/ClearMyNominatedContent
 ugc.asmx/CreateContent
 ugc.asmx/CreateContent2
 ugc.asmx/Publish
@@ -98,4 +97,5 @@ ugc.asmx/QueryContent
 ugc.asmx/QueryContentCreators
 ugc.asmx/SetBookmarked
 ugc.asmx/SetDeleted
+ugc.asmx/SetNominated
 ugc.asmx/SetPlayerData
