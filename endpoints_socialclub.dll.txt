@@ -5,7 +5,6 @@ Avatars.asmx/GetAvatarsByNickname
 Avatars.asmx/GetAvatarsByRockstarId
 Clans.asmx/GetMembers
 Clans.asmx/GetMine
-Complaint.asmx/WriteComplaint
 Friends.asmx/AcceptInvite
 Friends.asmx/Block
 Friends.asmx/CancelInvite
@@ -21,6 +20,8 @@ Friends.asmx/InviteByRockstarId
 Friends.asmx/RemoveFriend
 Friends.asmx/Unblock
 GeoLocation.asmx/GetLocationInfoFromIP
+PlayerReporting.asmx/ReportChatMessage
+PlayerReporting.asmx/ReportPlayerProfile
 Presence.asmx/GetAttributes
 Presence.asmx/GetAttributesForGamers
 Presence.asmx/GetMessages
@@ -35,10 +36,10 @@ Presence.asmx/SignOut
 Presence.asmx/Subscribe
 Presence.asmx/UnknownOp
 Telemetry.asmx/SubmitCompressed
-ZJB4bBXXachievements.asmx/GetPlayerAchievements
 achievements.asmx/AwardAchievement
 achievements.asmx/AwardAchievements
 achievements.asmx/AwardOfflineAchievements
+achievements.asmx/GetPlayerAchievements
 achievements.asmx/SynchronizeProgress
 app.asmx/GetTitleAccessToken2
 auth.asmx/CreateScAuthToken2
@@ -62,4 +63,5 @@ entitlements.asmx/ValidateContentPlayerAge
 matchmaking.asmx/UnadvertiseAll
 playersearch.asmx/UnifiedAccountSearch
 presence.asmx/GetPresenceServers
+s/d/s/Conductor.asmx/s
 socialclub.asmx/CreateScAuthToken2

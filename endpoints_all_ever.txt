@@ -115,6 +115,8 @@ Leaderboards.asmx/UpdateLeaderboards
 Modulate.asmx/GetToxModJwt
 Paradise.asmx/CreateTicket
 Paradise.asmx/GetEnforcementFlag
+PlayerReporting.asmx/ReportChatMessage
+PlayerReporting.asmx/ReportPlayerProfile
 Presence.asmx/GetAttributes
 Presence.asmx/GetAttributesForGamers
 Presence.asmx/GetMessages
@@ -175,6 +177,7 @@ achievements.asmx/SynchronizeProgress
 app.asmx/GetApps
 app.asmx/GetAppsAndPackages
 app.asmx/GetBuildCollection
+app.asmx/GetBuildCollection2
 app.asmx/GetBuildManifestFull
 app.asmx/GetSecureAssetUrl
 app.asmx/GetTitleAccessToken

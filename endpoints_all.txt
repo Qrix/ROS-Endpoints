@@ -2,7 +2,6 @@
 /s/d/LauncherServices/App.asmx
 Accounts.asmx/GetAccountPrivacy
 Accounts.asmx/UpdatePresenceVisibility
-Achievements.asmx/GetAchievementDefinitions
 Achievements.asmx/GetAchievements
 Achievements.asmx/GetAchievementsProgress
 AgeAssurance.asmx/Cancel
@@ -16,7 +15,6 @@ Clans.asmx/Create
 Clans.asmx/DeleteInvite
 Clans.asmx/DeleteJoinRequest
 Clans.asmx/DeleteWallMessage
-Clans.asmx/Disband
 Clans.asmx/GetAll
 Clans.asmx/GetDesc
 Clans.asmx/GetDescs
@@ -43,7 +41,6 @@ Clans.asmx/Join
 Clans.asmx/JoinRequest
 Clans.asmx/Kick
 Clans.asmx/Leave
-Clans.asmx/MemberSetRankByRankOrder
 Clans.asmx/MemberUpdateRankId
 Clans.asmx/RankCreate
 Clans.asmx/RankDelete
@@ -111,6 +108,8 @@ Leaderboards.asmx/ReadPlayersByRank
 Leaderboards.asmx/SubmitUpdate
 Leaderboards.asmx/UpdateLeaderboards
 Modulate.asmx/GetToxModJwt
+PlayerReporting.asmx/ReportChatMessage
+PlayerReporting.asmx/ReportPlayerProfile
 Presence.asmx/GetAttributes
 Presence.asmx/GetAttributesForGamers
 Presence.asmx/GetMessages
@@ -163,9 +162,9 @@ achievements.asmx/SynchronizeProgress
 app.asmx/GetApps
 app.asmx/GetAppsAndPackages
 app.asmx/GetBuildCollection
+app.asmx/GetBuildCollection2
 app.asmx/GetBuildManifestFull
 app.asmx/GetSecureAssetUrl
-app.asmx/GetTitleAccessToken
 app.asmx/GetTitleAccessToken2
 app.asmx/RetrieveFileChunkMulti
 auth.asmx/CreateP2PCertificate
@@ -224,19 +223,13 @@ s/d/s/Conductor.asmx/s
 s/d/wcfgameservices/Conductor.svc/s
 s/d/wcfgameservices/Posse.svc/s
 s/d/wcfgameservices/SpActionProxy.svc/s
-socialclub.asmx/CheckEmail
-socialclub.asmx/CheckNickname
 socialclub.asmx/CheckText
 socialclub.asmx/CreateAccountSc
-socialclub.asmx/CreateAccountScInternal
 socialclub.asmx/CreateScAuthToken
 socialclub.asmx/CreateScAuthToken2
 socialclub.asmx/EvaluateTextChat
 socialclub.asmx/GetAccountInfo
-socialclub.asmx/GetAlternateNicknames
-socialclub.asmx/GetCountries
 socialclub.asmx/GetLinkedAccountPrivacyInfo
-socialclub.asmx/GetPasswordRequirements
 socialclub.asmx/GetScAuthToken
 socialclub.asmx/GetToxModPlayerId
 socialclub.asmx/GetYoutubeAccessToken
@@ -244,11 +237,6 @@ socialclub.asmx/NewsletterGetSubscriptionStatus
 socialclub.asmx/NewsletterSubscribe
 socialclub.asmx/NewsletterUnsubscribe
 socialclub.asmx/PostUserFeedActivity
-socialclub.asmx/RequestResetPassword
-socialclub.asmx/UpdateAcceptNewsletter
-socialclub.asmx/UpdateAccount
-socialclub.asmx/UpdatePassword
-socialclub.asmx/ValidatePassword
 ugc.asmx/CheckText
 ugc.asmx/ClearMyNominatedContent
 ugc.asmx/CopyContent
@@ -259,7 +247,6 @@ ugc.asmx/Publish
 ugc.asmx/QueryContent
 ugc.asmx/QueryContentCreators
 ugc.asmx/QueryContentStats
-ugc.asmx/QueryPlayerData
 ugc.asmx/RequestHostedUserContentUpload
 ugc.asmx/SetBookmarked
 ugc.asmx/SetDeleted
