@@ -53,6 +53,8 @@ Clans.asmx/RankUpdate
 Clans.asmx/SetPrimaryClan
 Clans.asmx/WriteWallMessage
 Commerce.asmx/UpdateMSUserStoreIds
+CommunityStats.asmx/ReadStatSetHistory
+CommunityStats.asmx/ReadStats
 Complaint.asmx/WriteComplaint
 Conductor.asmx/Route
 ContentModeration.asmx/EvaluateTextChat
@@ -123,6 +125,7 @@ Presence.asmx/GetMessages
 Presence.asmx/MultiPostMessage
 Presence.asmx/NotifyActiveSessionChange
 Presence.asmx/Publish
+Presence.asmx/Query
 Presence.asmx/QueryWithMaxRecordLength
 Presence.asmx/ReplaceAttributes
 Presence.asmx/SetActiveTitle
@@ -156,7 +159,10 @@ Rdr2Title.asmx/TitlePromotion
 SaveMigration.asmx/GetSaveMigrationStatus
 SaveMigration.asmx/GetSaveMigrationTransactionStatus
 SaveMigration.asmx/GetSourceAccountsMP
+SaveMigration.asmx/GetSourcePlatforms
 SaveMigration.asmx/MigrateAccountMP
+SaveMigration.asmx/MigrateSaveByGeneration
+SaveMigration.asmx/MigrateSaveByRockstarAccount
 SaveMigrationSingleplayer.asmx/CompleteSingleplayerMigration
 SaveMigrationSingleplayer.asmx/DownloadSingleplayerSave
 SaveMigrationSingleplayer.asmx/GetAvailableSingleplayerSaveMetadata
@@ -173,6 +179,7 @@ achievements.asmx/AwardAchievement
 achievements.asmx/AwardAchievements
 achievements.asmx/AwardOfflineAchievements
 achievements.asmx/GetPlayerAchievements
+achievements.asmx/Synchronize
 achievements.asmx/SynchronizeProgress
 app.asmx/GetApps
 app.asmx/GetAppsAndPackages
@@ -186,11 +193,13 @@ app.asmx/RetrieveFileChunkMulti
 auth.asmx/CreateP2PCertificate
 auth.asmx/CreateScAuthToken
 auth.asmx/CreateScAuthToken2
+auth.asmx/CreateTicketSc
 auth.asmx/CreateTicketSc2
 auth.asmx/CreateTicketSc3
 auth.asmx/CreateTicketScAuthToken
 auth.asmx/CreateTicketScAuthToken2
 auth.asmx/CreateTicketScSteam2
+auth.asmx/CreateTicketXbl3
 auth.asmx/ExchangeTicket
 auth.asmx/ExchangeTicket2
 auth.asmx/ExchangeTicket3
@@ -243,6 +252,7 @@ s/d/wcfgameservices/SpActionProxy.svc/s
 socialclub.asmx/CheckEmail
 socialclub.asmx/CheckNickname
 socialclub.asmx/CheckText
+socialclub.asmx/CreateAccount
 socialclub.asmx/CreateAccountSc
 socialclub.asmx/CreateAccountScInternal
 socialclub.asmx/CreateScAuthToken
@@ -256,11 +266,14 @@ socialclub.asmx/GetPasswordRequirements
 socialclub.asmx/GetScAuthToken
 socialclub.asmx/GetToxModPlayerId
 socialclub.asmx/GetYoutubeAccessToken
+socialclub.asmx/LinkAccount2
 socialclub.asmx/NewsletterGetSubscriptionStatus
 socialclub.asmx/NewsletterSubscribe
 socialclub.asmx/NewsletterUnsubscribe
+socialclub.asmx/PostOpenGraphAppToken
 socialclub.asmx/PostUserFeedActivity
 socialclub.asmx/RequestResetPassword
+socialclub.asmx/UnlinkAccount
 socialclub.asmx/UpdateAcceptNewsletter
 socialclub.asmx/UpdateAccount
 socialclub.asmx/UpdatePassword
