@@ -1,5 +1,6 @@
 Accounts.asmx/GetAccountPrivacy
 Accounts.asmx/UpdatePresenceVisibility
+Achievements.asmx/GetAchievementDefinitions
 Achievements.asmx/GetAchievementsProgress
 Avatars.asmx/GetAvatarsByNickname
 Avatars.asmx/GetAvatarsByRockstarId
@@ -8,6 +9,7 @@ Clans.asmx/GetMine
 Friends.asmx/AcceptInvite
 Friends.asmx/Block
 Friends.asmx/CancelInvite
+Friends.asmx/CancelInviteByGamerHandle
 Friends.asmx/CountAll
 Friends.asmx/DeclineInvite
 Friends.asmx/GetBlocked
@@ -15,6 +17,8 @@ Friends.asmx/GetFriends
 Friends.asmx/GetFriendsAndInvitesSent
 Friends.asmx/GetInvitesReceived
 Friends.asmx/GetInvitesSent
+Friends.asmx/GetOnlineServiceFriends
+Friends.asmx/InviteByGamerHandle
 Friends.asmx/InviteByNickname
 Friends.asmx/InviteByRockstarId
 Friends.asmx/RemoveFriend
@@ -47,6 +51,8 @@ auth.asmx/CreateTicketSc3
 auth.asmx/CreateTicketScAuthToken2
 auth.asmx/ExchangeTicket3
 auth.asmx/ExchangeTitleAccessToken
+auth.asmx/GetDiscordChildLinkToken
+auth.asmx/LinkDiscordAccount
 auth.svc/CreateTicketSc3
 auth.svc/CreateTicketScAuthToken2
 cloudsave.asmx/GetCloudSaveManifest
